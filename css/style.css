@@ -1,0 +1,37 @@
+header {
+  background-image: linear-gradient(to bottom, pink, transparent);
+}
+
+a:hover {
+  transition: 1s all;
+  font-size: 20px;
+}
+
+h1 {
+  color: #df97cf;
+}
+
+.bg {
+  background-color: beige;
+  border-radius: 10px;
+}
+
+/*DESKTOP*/
+@media (min-width: 1024px) {
+  .bienvenidos {
+    font-size: 45px;
+  }
+}
+.primerpreg {
+  padding-top: 17px;
+}
+
+/*MOBILE*/
+@media (max-width: 768px) {
+  .img-fluid {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
