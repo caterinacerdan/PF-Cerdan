@@ -16,6 +16,10 @@ h1 {
   border-radius: 10px;
 }
 
+.form-check-label {
+  margin-right: 10px;
+}
+
 /*DESKTOP*/
 @media (min-width: 1024px) {
   .bienvenidos {
@@ -24,6 +28,10 @@ h1 {
 }
 .primerpreg {
   padding-top: 17px;
+}
+
+.registrate {
+  padding-bottom: 25px;
 }
 
 /*MOBILE*/
