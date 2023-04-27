@@ -20,6 +20,10 @@ h1 {
   margin-right: 10px;
 }
 
+.check {
+  padding-top: 10px;
+}
+
 /*DESKTOP*/
 @media (min-width: 1024px) {
   .bienvenidos {
@@ -32,6 +36,10 @@ h1 {
 
 .registrate {
   padding-bottom: 25px;
+}
+
+.check {
+  padding-bottom: 80px;
 }
 
 /*MOBILE*/
