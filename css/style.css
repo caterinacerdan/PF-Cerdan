@@ -29,22 +29,30 @@ h1 {
   .bienvenidos {
     font-size: 45px;
   }
+  .primerpreg {
+    padding-top: 17px;
+  }
+  .registrate {
+    padding-bottom: 25px;
+  }
+  .check {
+    padding-bottom: 80px;
+  }
+  .parrafo {
+    padding-top: 90px;
+  }
+  iframe {
+    width: 600px;
+    height: 450px;
+  }
 }
-.primerpreg {
-  padding-top: 17px;
-}
-
-.registrate {
-  padding-bottom: 25px;
-}
-
-.check {
-  padding-bottom: 80px;
-}
-
 /*MOBILE*/
 @media (max-width: 768px) {
   .img-fluid {
+    width: 100%;
+    height: auto;
+  }
+  iframe {
     width: 100%;
     height: auto;
   }
