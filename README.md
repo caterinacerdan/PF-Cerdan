@@ -1,1 +1,1 @@
-Hola! este es mi proyecto , es sobre un emprendimiento que tengo sobre extensiones de pestañas, las dos páginas q están a la perfección son: productos y el index. 
+Hola! este es mi proyecto , es sobre un emprendimiento que tengo sobre extensiones de pestañas, espero que te haya gustado!
