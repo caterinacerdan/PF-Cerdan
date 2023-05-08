@@ -53,10 +53,6 @@ h1 {
   .img-fluid {
     padding-bottom: 18px;
   }
-  .card-img-top:hover {
-    transform: scale(1.1);
-    transition: 1s all;
-  }
 }
 /*MOBILE*/
 @media (max-width: 768px) {
